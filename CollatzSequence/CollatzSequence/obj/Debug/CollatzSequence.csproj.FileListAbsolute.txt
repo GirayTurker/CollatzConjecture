@@ -1,0 +1,7 @@
+D:\C#_Projects\CollatzSequence\CollatzSequence\bin\Debug\CollatzSequence.exe.config
+D:\C#_Projects\CollatzSequence\CollatzSequence\bin\Debug\CollatzSequence.exe
+D:\C#_Projects\CollatzSequence\CollatzSequence\bin\Debug\CollatzSequence.pdb
+D:\C#_Projects\CollatzSequence\CollatzSequence\obj\Debug\CollatzSequence.csproj.AssemblyReference.cache
+D:\C#_Projects\CollatzSequence\CollatzSequence\obj\Debug\CollatzSequence.csproj.CoreCompileInputs.cache
+D:\C#_Projects\CollatzSequence\CollatzSequence\obj\Debug\CollatzSequence.exe
+D:\C#_Projects\CollatzSequence\CollatzSequence\obj\Debug\CollatzSequence.pdb
